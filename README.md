@@ -21,9 +21,51 @@
 <br />
 
 ## 🔍Project
-|                        Title                        |   Stack    |     Duration      |                            Organization                            |                                                                                         More                                                                                         |
-| :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 바쁜 현대인들을 위한 주식 자동매매 프로그램 개발 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> | 2024.03 ~ 2024.06 | <img src="https://img.shields.io/badge/Dongguk%20University-orange?style-for-the-badge&logo=mamp"/> |                                       [Github]                                         |
+| Title | Stack | Duration | Organization | More |
+| :-------------------------------------------------: | :------------------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 바쁜 현대인들을 위한 주식 자동매매 프로그램 개발 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"><br><img src="https://img.shields.io/badge/SQLite-003A59?style=for-the-badge&logo=sqlite&logoColor=4fA8DF"><br><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> | 2024.03 - 2024.06 | <img src="https://img.shields.io/badge/Dongguk%20University-orange?style-for-the-badge&logo=mamp"/> | [Github] |
+| 차량 디스플레이 불량 예측 모델 개발 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br/><img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=3499CD"> | 2024.07 - 2024.08 | <img src="https://img.shields.io/badge/LG%20Aimers-A50034?style-for-the-badge&logo=lg&logoColor=white"/> | [Github] |
+| 한옥마을 관광객을 고려한 주차장 입지 선정 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br/> <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=qgis&logoColor=F0903A"><br/><img src="https://img.shields.io/badge/MCLP-000000?style=for-the-badge"> | 2024.04 - 2024.06 | <img src="https://img.shields.io/badge/JeonJu-F16779?style-for-the-badge&logo=homeadvisor&logoColor=white"/> | [Github] |
+| 예술의 전당 활성화를 위한 가격 책정 알고리즘 개발 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br/><img src="https://img.shields.io/badge/PCA-000000?style=for-the-badge"><br/><img src="https://img.shields.io/badge/Clustering-000000?style=for-the-badge"> | 2023.08 - 2023.10 | <img src="https://img.shields.io/badge/BigContest-FC0018?style-for-the-badge&logo=msi&logoColor=white"/> | [Github] |
+| 지역화폐 동백전 활성화 방안 제시 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br/><img src="https://img.shields.io/badge/EDA-000000?style=for-the-badge"> | 2023.03 - 2023.06 | <img src="https://img.shields.io/badge/Busan-004097?style-for-the-badge&logo=caixabank&logoColor=white"/> | [Github] |
+<br />
+
+## 🏆Award
+| Title | Stack | Duration | Organization | More |
+| :-------------------------------------------------: | :------------------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 당신도 모르게 휩쓸렸을까? 군중심리 분석으로 진짜 투자 전략 찾기 🔑 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br><img src="https://img.shields.io/badge/MS%20Azure-035BDA?style=for-the-badge&logo=googledrive&logoColor=white"><br><img src="https://img.shields.io/badge/MSSQL-AF181D?style=for-the-badge&logo=sailfishos&logoColor=white"><br><img src="https://img.shields.io/badge/GPT%204-74AA9C?style=for-the-badge&logo=openai&logoColor=white"> | 2024.09 - 2024.12 | <img src="https://img.shields.io/badge/NH-0078C1?style-for-the-badge&logo=nhl&logoColor=FDBB2F"/> | [Github] |
+| 최우등졸업생 |  | 2024.08.22 | <img src="https://img.shields.io/badge/Dongguk%20University-orange?style-for-the-badge&logo=mamp"/> | 2024 가을학기 |
+| 학기우등생 |  | 2024.08.02, 2024.01.25, 2023.07.18, 2023.01.25, 2020.07.30, 2020.02.07 | <img src="https://img.shields.io/badge/Dongguk%20University-orange?style-for-the-badge&logo=mamp"/> | 2019 2학기 - 2020 2학기,<br/> 2022 2학기 - 2024 1학기 |
+<br />
+
+## 📑Paper
+| Title | Stack | Duration | Organization | More |
+| :-------------------------------------------------: | :------------------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 가설검정을 활용하여 성능을 개선한 성적 예측 분석 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> | 2024.03 - 2024.06 | <img src="https://img.shields.io/badge/Dongguk%20University-orange?style-for-the-badge&logo=mamp"/> | [File] |
+<br />
+
+## 🎓Experience
+### Degree
+- (2019.03 - 2024.08) Dongguk Univ. (4.38/4.5)
+- (2019.03 - 2024.08) Dongguk Univ. Statistics (4.5/4.5)
+- (2022.08 - 2024.08) Dongguk Univ. Data Science SW (4.5/4.5)
+
+### Academy
+- (2023.01 - 2023.08) 빅데이터 학회 비어플(Baf) 학회원
+- (2023.08 - 2024.08) 빅데이터 학회 비어플(Baf) 회장
+- (2023.09 - 2024.06) 통계 딥러닝 스터디원
+- (2023.09 - 2023.12) 동국대학교 AI융합학부 통게수학2 조교
+- (2024.03 - 2024.06) 동국대학교 데이터사이언스소프트웨어학과 자연어처리 조교
+
+### Volunteer
+- (2023.05 - 2023.11) 통계교육 재능기부단
+<br />
+
+## 📜Certification
+- 빅데이터분석기사(2024.12.20)
+- TOEIC SPEAKING 130(IM3) (2024.06.23)
+- SQLD (2021.10.01)
+- ADsP (2021.09.24)
 <br />
 
 ## ⚙ Tech Stacks
