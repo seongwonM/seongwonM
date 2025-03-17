@@ -41,7 +41,7 @@
 ## 📑Paper
 | Title | Stack | Duration | Organization | More |
 | :-------------------------------------------------: | :------------------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 가설검정을 활용하여 성능을 개선한 성적 예측 분석 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> | 2024.03 - 2024.06 | <img src="https://img.shields.io/badge/Dongguk%20University-orange?style-for-the-badge&logo=mamp"/> | [File] |
+| 가설검정을 활용하여 성능을 개선한 성적 예측 분석 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"><br><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> | 2024.03 - 2024.06 | <img src="https://img.shields.io/badge/Dongguk%20University-orange?style-for-the-badge&logo=mamp"/> | [File](https://github.com/seongwonM/Dongguk/blob/main/2019110467_%EB%AC%B8%EC%84%B1%EC%9B%90.hwp) |
 <br />
 
 ## 🎓Experience
